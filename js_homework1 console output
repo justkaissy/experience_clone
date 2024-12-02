@@ -1,0 +1,59 @@
+/usr/local/bin/node /Users/kristinavoropaieva/Documents/GitHub/hillel/hillel-projects/experience_clone/js_homework1.js
+Case 1: 'number' + 3 + 3
+number33
+
+Case 2: null + 3
+3
+
+Case 3: 5 && "qwerty"
+qwerty
+
+Case 4: +'40' + +'2' + "hillel"
+42hillel
+
+Case 5: '10' - 5 === 6
+false
+
+Case 6: true + false
+1
+
+Case 7: '4px' - 3
+NaN
+
+Case 8: '4' - 3
+1
+
+Case 9: '6' + 3 ** 0
+61
+
+Case 10: 12 / '6'
+2
+
+Case 11: '10' + (5 === 6)
+10false
+
+Case 12: null == ''
+false
+
+Case 13: 3 ** (9 / 3)
+27
+
+Case 14: !!'false' == !!'true'
+true
+
+Case 15: 0 || '0' && 1
+1
+
+Case 16: (+null == false) < 1
+false
+
+Case 17: false && true || true
+true
+
+Case 18: false && (false || true)
+false
+
+Case 19: (+null == false) < 1 ** 5
+false
+
+Process finished with exit code 0
